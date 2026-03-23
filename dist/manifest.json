@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "NUVRA Wallet",
+  "version": "1.0",
+  "description": "NUVRA Wallet",
+  "action": {
+    "default_popup": "index.html"
+  },
+
+
+  "icons": {
+    "16": "logo_nv_orange.png",
+    "48": "logo_nv_orange.png",
+    "128": "logo_nv_orange.png"
+  }
+}
